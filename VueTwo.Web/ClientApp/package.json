@@ -1,0 +1,41 @@
+{
+  "name": "vue-two",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@progress/kendo-data-query": "^1.5.5",
+    "@progress/kendo-drawing": "^1.10.0",
+    "@progress/kendo-licensing": "^1.1.4",
+    "@progress/kendo-vue-animation": "^2.1.7",
+    "@progress/kendo-vue-data-tools": "^2.1.7",
+    "@progress/kendo-vue-dateinputs": "^2.1.7",
+    "@progress/kendo-vue-dropdowns": "^2.1.7",
+    "@progress/kendo-vue-grid": "^2.1.7",
+    "@progress/kendo-vue-inputs": "^2.1.7",
+    "@progress/kendo-vue-intl": "^2.1.7",
+    "axios": "^0.21.1",
+    "chart.js": "^3.2.1",
+    "core-js": "^3.6.5",
+    "primeflex": "^2.0.0",
+    "primeicons": "^4.1.0",
+    "primevue": "^3.4.0",
+    "vue": "^3.0.0",
+    "vue-axios": "^3.2.4",
+    "vue-router": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "^4.5.13",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0"
+  }
+}
